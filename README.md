@@ -1,3 +1,15 @@
+# CST 8915 Lab 3
+
+## Resources
+
+- [Youtube walkthrough](https://youtu.be/Zm-SnyETcas)
+- [Product Service Demo](https://github.com/ObaidaKandakji/product-service-demo)  
+- [Order Service Demo](https://github.com/ObaidaKandakji/order-service-demo)  
+- [Store Front Demo](https://github.com/ObaidaKandakji/store-front-demo)  
+
+
+---
+
 ## Reflection Questions
 
 ### i. What challenges did you encounter when configuring environment variables in the GitHub Actions workflow?
@@ -9,11 +21,3 @@ Deploying microservices on Azure Web App Service differs significantly from runn
 ### iii. Why is it important to use environment variables for configurations in a cloud environment?
 Using environment variables in a cloud environment is important because they provide a secure and flexible way to manage configuration settings without hardcoding them into the application. They allow the same application code to run across different environments—development, testing, and production—without modification. This separation improves security by keeping sensitive information like API keys and connection strings out of the source code, and it supports maintainability by making configuration changes easier to manage and update.
 
----
-
-## Resources
-
-- [Product Service Demo](https://github.com/ObaidaKandakji/product-service-demo)  
-- [Order Service Demo](https://github.com/ObaidaKandakji/order-service-demo)  
-- [Store Front Demo](https://github.com/ObaidaKandakji/store-front-demo)  
-- [Project Walkthrough Video](https://youtu.be/Zm-SnyETcas)  
